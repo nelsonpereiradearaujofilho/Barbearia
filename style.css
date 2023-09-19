@@ -22,6 +22,9 @@ font-size: 20px;
 em strong {
 color:#FF0000;
 }
+.beneficios {
+background: #FFFFFF;
+}
 
 .itens {
 font-size: italic;
